@@ -1,3 +1,6 @@
-## Hey there people, i'm Dominique! 
 
-### Computer Enginnering | Software Developer
+![Dominique GitHub Banner](./assets/banner.gif)
+
+## Hey there, people! I'm Dominique!
+
+### Computer Engineering | Software Developer
