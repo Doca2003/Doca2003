@@ -75,6 +75,11 @@ Tenho interesse em desenvolvimento backend, construção de APIs REST e tecnolog
     <td width="50%" valign="top">
       <h3 align="center">💊 PharmaSys</h3>
       <p align="center">
+        <a href="https://github.com/Doca2003/pharmacy-management-api">
+          <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
+        </a>
+      </p>
+      <p align="center">
         Pharmacy management API with medication CRUD,
         JWT authentication, role-based access control,
         order management and inventory control.
@@ -85,14 +90,14 @@ Tenho interesse em desenvolvimento backend, construção de APIs REST e tecnolog
         <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-080b1a?style=for-the-badge&logo=sqlalchemy&logoColor=ff4fd8" />
         <img alt="JWT" src="https://img.shields.io/badge/JWT-080b1a?style=for-the-badge&logo=jsonwebtokens&logoColor=a855f7" />
       </p>
-      <p align="center">
-        <a href="https://github.com/Doca2003/pharmacy-management-api">
-          <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
-        </a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧠 Deepfake Detection</h3>
+      <p align="center">
+        <a href="https://github.com/Doca2003/tcc-deepfake">
+          <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
+        </a>
+      </p>
       <p align="center">
         Academic research focused on deepfake detection
         and explainable artificial intelligence.
@@ -104,14 +109,16 @@ Tenho interesse em desenvolvimento backend, construção de APIs REST e tecnolog
         <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-080b1a?style=for-the-badge&logo=tensorflow&logoColor=ff79c6" />
         <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-080b1a?style=for-the-badge&logo=opencv&logoColor=38bdf8" />
       </p>
-      <p align="center">
-        <img alt="Research in Progress" src="https://img.shields.io/badge/Research_in_Progress-080b1a?style=for-the-badge" />
-      </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🛍️ Clothing Store</h3>
+      <p align="center">
+        <a href="https://github.com/Doca2003/loja-de-roupa">
+          <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
+        </a>
+      </p>
       <p align="center">
         E-commerce mobile application featuring product
         management, category filters, shopping cart and
@@ -121,11 +128,6 @@ Tenho interesse em desenvolvimento backend, construção de APIs REST e tecnolog
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-080b1a?style=for-the-badge&logo=javascript&logoColor=ff4fd8" />
         <img alt="React Native" src="https://img.shields.io/badge/React_Native-080b1a?style=for-the-badge&logo=react&logoColor=38bdf8" />
         <img alt="Expo" src="https://img.shields.io/badge/Expo-080b1a?style=for-the-badge&logo=expo&logoColor=a855f7" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Doca2003/loja-de-roupa">
-          <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
-        </a>
       </p>
     </td>
   </tr>
