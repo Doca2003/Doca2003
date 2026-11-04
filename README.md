@@ -94,7 +94,7 @@ Tenho interesse em desenvolvimento backend, construção de APIs REST e tecnolog
     <td width="50%" valign="top">
       <h3 align="center">🧠 Deepfake Detection</h3>
       <p align="center">
-        <a href="https://github.com/Doca2003/tcc-deepfake">
+        <a href="https://github.com/Doca2003/tcc-deepfake-detection">
           <img alt="View Repository" src="https://img.shields.io/badge/View_Repository-080b1a?style=for-the-badge&logo=github&logoColor=E879F9" />
         </a>
       </p>
