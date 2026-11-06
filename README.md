@@ -2,7 +2,7 @@
   <img src="./assets/banner.gif" alt="Dominique GitHub Banner" />
 </p>
 
-<h1 align="center">Hey there, people! I'm Dominique!</h1>
+<h1 align="center">Hey there, people!</h1>
 
 <h3 align="center">Computer Engineering | Software Developer</h3>
 
